@@ -6,4 +6,4 @@ A general application that allows a user to:
 3. move photos by copy pasting
 4. tag photos
 
-!(/Phopos.png)
+![Photos](/Phopos.png)
